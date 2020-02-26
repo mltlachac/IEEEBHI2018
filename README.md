@@ -9,11 +9,13 @@ Citation:
 
 Tlachac, M. L., Rundensteiner, E., Barton, K., Troppy, S., Beaulac, K., Doron, S., & Zou, J. (2018, March). CASSIA: An assistant for identifying clinically and statistically significant decreases in antimicrobial susceptibility. In 2018 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI) (pp. 389-392). IEEE.
 
-@inproceedings{tlachac2018cassia, <br />
-  title={CASSIA: An assistant for identifying clinically and statistically significant decreases in antimicrobial susceptibility}, <br />
-  author={Tlachac, ML and Rundensteiner, Elke and Barton, Kerri and Troppy, Scott and Beaulac, Kirthana and Doron, Shira and Zou, Jian}, <br />
+'''
+@inproceedings{tlachac2018cassia,
+  title={CASSIA: An assistant for identifying clinically and statistically significant decreases in antimicrobial susceptibility},
+  author={Tlachac, ML and Rundensteiner, Elke and Barton, Kerri and Troppy, Scott and Beaulac, Kirthana and Doron, Shira and Zou, Jian}, 
   booktitle={2018 IEEE EMBS International Conference on Biomedical \& Health Informatics (BHI)}, <br />
-  pages={389--392}, <br />
-  year={2018}, <br />
-  organization={IEEE} <br />
+  pages={389--392}, 
+  year={2018},
+  organization={IEEE}
 }
+'''
